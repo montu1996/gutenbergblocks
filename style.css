@@ -1,0 +1,12 @@
+.statctext {
+    background-color: #04b0db;
+    padding: 10px;
+    border: 1px solid #0A246A;
+}
+
+.wp-block-basic-editabletext {
+    color: #000000;
+    background: azure;
+    border: 0.2rem solid midnightblue;
+    padding: 2rem;
+}
